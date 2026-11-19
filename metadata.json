@@ -1,0 +1,6 @@
+{
+  "name": "Glassly",
+  "description": "Liquid Glass Photos & Media Gallery with real-time AGSL refraction, adaptive tinting, and non-destructive photo editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
